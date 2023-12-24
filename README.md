@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm emrovsky</h1>
 <h3 align="center">a guy who loves requests</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrovsky" alt="emrovsky" /></a> </p>
 
 - 🔭 I’m currently working on **spotify bots**
 
