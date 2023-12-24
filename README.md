@@ -22,5 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/emrovsky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emrovsky" /></a></p><br><br>
 
+
+<h3 align="right">Discord:</h3>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/510174958270545920)](https://discord.com/users/510174958270545920)
 
