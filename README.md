@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?emrovsky)
+![Profile Views](https://komarev.com/ghpvc/?username=emrovsky)
 
 <h1 align="center">Hi 👋, I'm emrovsky</h1>
 <h3 align="center">a guy who loves requests</h3>
