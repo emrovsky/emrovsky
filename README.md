@@ -4,7 +4,7 @@
 <h3 align="center">a guy who loves requests</h3>
 
 
-- 🔭 I’m currently working on **spotify bots**
+- 🔭 I’m currently working on **streaming bots**
 
 - 🌱 I’m currently learning **how to live**
 
