@@ -4,11 +4,11 @@
 <h3 align="center">a guy who loves requests</h3>
 
 
-- 🔭 I’m currently working on **streaming bots**
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **how to live**
 
-- 💬 Ask me about **flask,requests**
+- 💬 Ask me about **flask,requests,web/mobile automation**
 
 - 📫 How to reach me **eemrovsky@gmail.com**
 
