@@ -4,13 +4,15 @@
 <h3 align="center">a guy who loves requests</h3>
 
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **reverse engineering web antibots**
 
 - 🌱 I’m currently learning **how to live**
 
 - 💬 Ask me about **flask,requests,web/mobile automation**
 
 - 📫 How to reach me **eemrovsky@gmail.com**
+
+- Reverse engineering blogs: https://emrovsky.github.io/blog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
